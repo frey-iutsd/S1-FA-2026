@@ -21,7 +21,7 @@ Ouvrez le fichier, cliquez sur **Raw**, puis **Ctrl+A** et **Ctrl+C** : la fiche
 
 Sur **Teams** (équipe *Outils num (SGD14) FA*) → **Devoirs**.
 
-**Séance 2** : vous travaillez directement dans les deux documents Word du devoir (`devis` et `rapport` : ils sont vides au départ, et chacun a sa propre copie), vous y joignez le rapport en PDF (`Prénom-Nom-rapport.pdf`), puis vous cliquez sur **Remettre**. Vous pouvez annuler la remise et continuer jusqu'à la date limite.
+**Séance 2** : vous travaillez directement dans les deux documents Word du devoir **word2** (`devis` et `rapport` : ils sont vides au départ, et chacun a sa propre copie), vous y joignez le rapport en PDF (`Prénom-Nom-rapport.pdf`), puis vous cliquez sur **Remettre**. Vous pouvez annuler la remise et continuer jusqu'à la date limite.
 
 ### Si les documents du devoir ne s'ouvrent pas en modification
 
