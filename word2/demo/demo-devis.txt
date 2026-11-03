@@ -1,0 +1,20 @@
+<Prénom> <NOM>
+Service des achats
+Lambert Assurances SAS
+45 boulevard Anatole France
+93100 Montreuil
+Equip'Office
+58 rue du Landy
+92000 Nanterre
+Montreuil, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Lambert Assurances, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Imprimantes multifonctions	2	349,99 €
+Sièges ergonomiques	5	192,99 €
+Lampes de bureau LED	15	65,50 €
+Casques avec micro	25	50,99 €
+Webcams	20	41,49 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>
