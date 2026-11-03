@@ -1,0 +1,20 @@
+<Prénom> <NOM>
+Service des achats
+Mercier Informatique SAS
+17 quai de Seine
+75011 Paris
+Mobilier & Co
+102 boulevard de la Libération
+93100 Montreuil
+Paris, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Mercier Informatique, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Imprimantes multifonctions	3	473,49 €
+Ordinateurs portables	10	655,00 €
+Sièges ergonomiques	5	447,00 €
+Webcams	30	106,50 €
+Souris ergonomiques	40	53,50 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

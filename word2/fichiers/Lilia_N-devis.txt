@@ -1,0 +1,21 @@
+<Prénom> <NOM>
+Service des achats
+Robin Logistique SA
+143 rue Victor Hugo
+93300 Aubervilliers
+Bureau Direct Pro
+174 rue de la République
+93200 Saint-Denis
+Aubervilliers, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Robin Logistique, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Casques avec micro	25	48,99 €
+Stations d'accueil USB-C	20	90,00 €
+Imprimantes multifonctions	2	545,90 €
+Ordinateurs portables	12	1 143,99 €
+Webcams	15	42,90 €
+Lampes de bureau LED	20	79,49 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

@@ -1,0 +1,21 @@
+<Prénom> <NOM>
+Service des achats
+Chevalier Conseil SAS
+163 rue Gabriel Péri
+94200 Ivry-sur-Seine
+TechnoPlus Entreprises
+74 avenue Jean Jaurès
+94200 Ivry-sur-Seine
+Ivry-sur-Seine, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Chevalier Conseil, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Casques avec micro	40	56,90 €
+Supports d'ordinateur portable	15	29,00 €
+Écrans 24 pouces	20	174,99 €
+Lampes de bureau LED	15	49,00 €
+Claviers sans fil	40	60,00 €
+Souris ergonomiques	30	67,49 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

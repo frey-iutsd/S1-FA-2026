@@ -1,0 +1,20 @@
+<Prénom> <NOM>
+Service des achats
+Da Silva Conseil SAS
+156 boulevard Anatole France
+75011 Paris
+InfoMatériel Services
+21 rue de la République
+77420 Champs-sur-Marne
+Paris, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Da Silva Conseil, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Souris ergonomiques	40	18,49 €
+Claviers sans fil	40	47,90 €
+Écrans 24 pouces	40	163,00 €
+Stations d'accueil USB-C	20	158,49 €
+Casques avec micro	30	104,99 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

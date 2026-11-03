@@ -1,0 +1,20 @@
+<Prénom> <NOM>
+Service des achats
+Chevalier Conseil SAS
+23 avenue Jean Jaurès
+93100 Montreuil
+TechnoPlus Entreprises
+98 rue du Landy
+92100 Boulogne-Billancourt
+Montreuil, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Chevalier Conseil, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Imprimantes multifonctions	2	795,00 €
+Stations d'accueil USB-C	20	138,99 €
+Supports d'ordinateur portable	25	33,50 €
+Ordinateurs portables	15	691,90 €
+Claviers sans fil	50	62,00 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

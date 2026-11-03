@@ -1,0 +1,21 @@
+<Prénom> <NOM>
+Service des achats
+Fontaine Informatique SARL
+148 rue Gabriel Péri
+93100 Montreuil
+Mobilier & Co
+20 rue Pierre Curie
+92400 Courbevoie
+Montreuil, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Fontaine Informatique, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Souris ergonomiques	20	52,00 €
+Sièges ergonomiques	8	256,50 €
+Casques avec micro	30	77,50 €
+Supports d'ordinateur portable	15	34,00 €
+Webcams	10	92,50 €
+Écrans 24 pouces	20	124,90 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

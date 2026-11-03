@@ -1,0 +1,19 @@
+<Prénom> <NOM>
+Service des achats
+Kaci Informatique SA
+82 avenue Jean Jaurès
+75013 Paris
+Numéric Équipement
+158 rue Victor Hugo
+92100 Boulogne-Billancourt
+Paris, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Kaci Informatique, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Casques avec micro	50	58,49 €
+Sièges ergonomiques	10	446,50 €
+Claviers sans fil	20	19,99 €
+Écrans 24 pouces	20	143,49 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

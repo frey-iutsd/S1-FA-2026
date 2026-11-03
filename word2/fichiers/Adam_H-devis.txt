@@ -1,0 +1,19 @@
+<Prénom> <NOM>
+Service des achats
+Roux Édition SAS
+103 rue du Landy
+93200 Saint-Denis
+Equip'Office
+35 allée des Platanes
+75013 Paris
+Saint-Denis, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Roux Édition, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Casques avec micro	20	31,90 €
+Claviers sans fil	40	23,00 €
+Lampes de bureau LED	10	85,49 €
+Webcams	20	119,99 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

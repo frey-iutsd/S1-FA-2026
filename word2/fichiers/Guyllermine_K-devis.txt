@@ -1,0 +1,19 @@
+<Prénom> <NOM>
+Service des achats
+Masson Assurances SAS
+73 avenue Jean Jaurès
+95000 Cergy
+InfoMatériel Services
+92 rue Gabriel Péri
+93200 Saint-Denis
+Cergy, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Masson Assurances, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Webcams	30	49,49 €
+Ordinateurs portables	20	632,99 €
+Imprimantes multifonctions	3	697,49 €
+Stations d'accueil USB-C	15	189,99 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

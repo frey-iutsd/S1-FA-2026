@@ -1,0 +1,21 @@
+<Prénom> <NOM>
+Service des achats
+Haddad Énergie SA
+114 avenue du Président Wilson
+91000 Évry-Courcouronnes
+Fournitures Pro Île-de-France
+113 avenue Jean Jaurès
+94200 Ivry-sur-Seine
+Évry-Courcouronnes, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Haddad Énergie, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Lampes de bureau LED	10	41,99 €
+Casques avec micro	40	65,00 €
+Écrans 24 pouces	25	165,99 €
+Stations d'accueil USB-C	25	104,00 €
+Claviers sans fil	30	44,49 €
+Souris ergonomiques	40	22,49 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>

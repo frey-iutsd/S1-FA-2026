@@ -1,0 +1,19 @@
+<Prénom> <NOM>
+Service des achats
+Masson Immobilier SAS
+3 avenue Jean Jaurès
+75011 Paris
+Mobilier & Co
+92 rue Victor Hugo
+91000 Évry-Courcouronnes
+Paris, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Dans le cadre du développement du télétravail chez Masson Immobilier, nous souhaitons équiper une partie de nos salariés. Pourriez-vous nous faire parvenir un devis pour la commande suivante ? Les prix indiqués sont ceux de votre catalogue en ligne : nous vous remercions de nous préciser vos conditions pour ces quantités, ainsi que les délais de livraison.
+Produit	Quantité	Prix unitaire HT
+Sièges ergonomiques	8	422,00 €
+Ordinateurs portables	15	711,50 €
+Imprimantes multifonctions	5	421,99 €
+Webcams	10	71,90 €
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>
