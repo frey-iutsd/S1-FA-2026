@@ -19,4 +19,17 @@ Ouvrez le fichier, cliquez sur **Raw**, puis **Ctrl+A** et **Ctrl+C** : la fiche
 
 ## Rendre un devoir
 
-Sur **Teams** (équipe *Outils num (SGD14) FA*) → **Devoirs**. Pour la séance 2, vous travaillez directement dans les deux documents du devoir (`devis` et `rapport`, chacun a sa propre copie), puis vous cliquez sur **Remettre**. Seulement si vous ne pouvez pas accéder à Teams : par e-mail à jonas.frey@univ-paris13.fr.
+Sur **Teams** (équipe *Outils num (SGD14) FA*) → **Devoirs**.
+
+**Séance 2** : vous travaillez directement dans les deux documents Word du devoir (`devis` et `rapport` : ils sont vides au départ, et chacun a sa propre copie), vous y joignez le rapport en PDF (`Prénom-Nom-rapport.pdf`), puis vous cliquez sur **Remettre**. Vous pouvez annuler la remise et continuer jusqu'à la date limite.
+
+### Si les documents du devoir ne s'ouvrent pas en modification
+
+Word en ligne est **gratuit** avec un compte Microsoft personnel, sans abonnement :
+
+1. allez sur [microsoft365.com](https://www.microsoft365.com) et connectez-vous avec votre adresse personnelle (celle avec laquelle vous êtes dans l'équipe Teams) ; si vous n'avez pas encore de compte Microsoft, créez-en un gratuitement avec cette adresse ;
+2. créez deux documents Word, `Prénom-Nom-devis` et `Prénom-Nom-rapport`, et faites-y toute la fiche ;
+3. à la fin, dans chacun : **Fichier → Créer une copie → Télécharger une copie** (fichier `.docx`) ;
+4. dans le devoir Teams : **Joindre → Charger à partir de cet appareil** pour les deux `.docx` et le PDF, puis **Remettre**.
+
+Prévenez l'enseignant dans la conversation de l'équipe si vous passez par cette solution.
