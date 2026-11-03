@@ -19,4 +19,4 @@ Ouvrez le fichier, cliquez sur **Raw**, puis **Ctrl+A** et **Ctrl+C** : la fiche
 
 ## Rendre un devoir
 
-Déposez les fichiers demandés dans le devoir correspondant sur **Teams** (équipe *Outils num (SGD14) FA*), puis cliquez sur **Remettre**. Seulement si vous ne pouvez pas accéder à Teams : par e-mail à jonas.frey@univ-paris13.fr.
+Sur **Teams** (équipe *Outils num (SGD14) FA*) → **Devoirs**. Pour la séance 2, vous travaillez directement dans les deux documents du devoir (`devis` et `rapport`, chacun a sa propre copie), puis vous cliquez sur **Remettre**. Seulement si vous ne pouvez pas accéder à Teams : par e-mail à jonas.frey@univ-paris13.fr.
