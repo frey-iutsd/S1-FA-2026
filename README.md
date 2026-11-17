@@ -10,7 +10,7 @@ Tous les documents du cours sont ici. Pour télécharger un fichier : cliquez de
 |---|---|---|---|
 | 1 | — | Fichiers et dossiers, ZIP ; styles, recherche, tableau, sommaire (Word) | [fiche](word1/seance1-FA.pdf), [diaporama](word1/seance1-FA-slides.pdf), [texte Yellowstone](word1/ParcNationalYellowstone.txt) |
 | 2 | 4 nov., **à distance** | Word en ligne : lettre (retraits, tabulations, styles), rapport (styles, listes, tableau, en-têtes, PDF) | [fiche](word2/seance2-FA.pdf), [vos fichiers](word2/fichiers/) |
-| 3 | 18 nov., **à distance** | PowerPoint en ligne : dispositions, thème, images, alignement, pied de page, notes, PDF | [fiche](ppt1/seance3-FA.pdf), [diaporama](ppt1/seance3-FA-slides.pdf), [texte](ppt1/texte-presentation.txt), [images](ppt1/images/) |
+| 3 | 18 nov., en salle | PowerPoint en ligne : dispositions, thème, images, alignement, pied de page, notes, PDF | [fiche](ppt1/seance3-FA.pdf), [diaporama](ppt1/seance3-FA-slides.pdf), [texte](ppt1/texte-presentation.txt), [images](ppt1/images/) |
 
 ## Séance 2 : vos fichiers
 
